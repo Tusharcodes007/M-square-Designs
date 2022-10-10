@@ -1,0 +1,119 @@
+
+h2{
+font-family: 'Ubuntu', sans-serif;
+color: #D8D9CF;
+
+}
+.hedit {
+background-color:black;
+color:  #F2D388;
+
+}
+
+h1{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+font-weight: bold;
+background-color: #967E76;
+color: #D8D9CF;
+
+}
+.customss{
+  padding-top: 150px;
+  font-family: 'Ubuntu', sans-serif;
+
+}
+
+
+
+.abc{
+padding-left: 600px;
+color: #D8D9CF;
+}
+.row{
+  text-align: center;
+}
+.center{
+ text-align: center;
+ display: block;
+ width: 3000px;
+ padding-bottom: 3px;
+}
+ul li {
+  display: inline;
+
+}
+.custom{
+  background-color: black;
+margin-top: 0;
+margin-bottom: 0;
+}
+
+.dropbtn {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  font-size: 18px;
+  border: none;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 150px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #D8D9CF;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: black;
+text-decoration: underline;
+text-decoration-color: black;
+ }
+ #features{
+   padding: 7% 14%;
+   background-color: #fff;
+ }
+.cardis{
+  padding-left: 30px;
+}
+
+.anchoredit{
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+  font-family: 'Ubuntu', sans-serif;
+
+}
+.box
+    {
+/* border: 1px solid #9325BC; */
+
+    }
+    .box:hover
+    {
+      -moz-box-shadow: 0 0 15px #ccc;
+      -webkit-box-shadow: 0 0 35px #ccc;
+      box-shadow: 0 0 15px #ccc;
+    }
+    .tds{
+
+margin-top: 30px;
+margin-bottom: 30px;
+    }
